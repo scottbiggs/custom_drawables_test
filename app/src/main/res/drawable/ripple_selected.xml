@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	For older devices which can't ripple.
+-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:drawable="@color/colorHighlight" />
+</selector>

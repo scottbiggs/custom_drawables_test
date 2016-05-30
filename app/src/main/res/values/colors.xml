@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- General Colors, defined in a global sense -->
+	<color name="colorPrimary">@color/fern_green</color>
+	<color name="colorPrimaryDark">@color/forest_green</color>
+	<color name="colorAccent">@color/deep_red</color>
+
+	<color name="colorHighlight">@color/light_orange</color>
+	<color name="colorNormal">@color/transparent</color>
+
+	<color name="ripple_color_to_normal">@color/white</color>
+	<color name="ripple_color_to_highlight">@color/light_orange</color>
+
+
+	<!-- Specific Colors -->
+	<color name="transparent">#00000000</color>
+	<color name="white">#ffffff</color>
+	<color name="black">#000000</color>
+
+	<color name="gray">#888</color>
+	<color name="dark_gray">#444</color>
+	<color name="darker_gray">#222</color>
+	<color name="darkest_gray">#111</color>
+	<color name="light_gray">#ccc</color>
+
+	<color name="forest_green">#014421</color>
+	<color name="fern_green">#71BC78</color>
+
+	<color name="deep_red">#940c02</color>
+
+	<color name="light_orange">#FFB762</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Selected ripple.
+
+	Note:   the color of the ripple is in the <ripple...color> section.
+			the color of the background is in the <item>
+-->
+<ripple
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:color="@color/ripple_color_to_normal"
+	>
+
+	<item
+		android:drawable="@color/colorHighlight"
+		/>
+
+</ripple>

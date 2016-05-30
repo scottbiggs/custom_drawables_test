@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Used for the backgrounds of press-able items.
+-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+	android:constantSize="true"
+	>
+
+	<!-- When the finger is actually touching the widget -->
+	<!--<item android:state_pressed="true"-->
+	      <!--android:drawable="@android:color/holo_red_dark"-->
+		<!--/>-->
+
+	<!-- When the widget is programmatically set to "activated" -->
+	<!--<item android:state_activated="true"-->
+	<item android:state_activated="true"
+	      android:drawable="@drawable/ripple_selected"
+		/>
+
+	<!-- Normal State (ripple) -->
+	<item android:state_activated="false"
+	      android:drawable="@drawable/ripple_normal"
+	      />
+
+</selector>
