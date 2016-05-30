@@ -32,7 +32,8 @@
 		android:layout_gravity="center_horizontal"
 		android:text="Push Me"
 	    android:textSize="28sp"
-	    android:background="@drawable/selectable"
+		android:textColor="@color/selectable_text"
+	    android:background="@drawable/selectable_bg"
 	    android:clickable="true"
 		/>
 

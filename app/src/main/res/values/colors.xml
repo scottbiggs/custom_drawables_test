@@ -5,11 +5,11 @@
 	<color name="colorPrimaryDark">@color/forest_green</color>
 	<color name="colorAccent">@color/deep_red</color>
 
-	<color name="colorHighlight">@color/light_orange</color>
+	<color name="colorHighlight">@color/blue</color>
 	<color name="colorNormal">@color/transparent</color>
 
 	<color name="ripple_color_to_normal">@color/white</color>
-	<color name="ripple_color_to_highlight">@color/light_orange</color>
+	<color name="ripple_color_to_highlight">@color/colorHighlight</color>
 
 
 	<!-- Specific Colors -->
@@ -29,4 +29,11 @@
 	<color name="deep_red">#940c02</color>
 
 	<color name="light_orange">#FFB762</color>
+
+	<color name="blue">#00f</color>
+	<color name="light_blue">#7f90fe</color>
+
+	<color name="cyan">#0ff</color>
+	<color name="light_cyan">#a0ffff</color>
+
 </resources>
