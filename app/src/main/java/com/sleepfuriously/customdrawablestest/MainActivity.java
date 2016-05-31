@@ -31,7 +31,7 @@ import android.widget.TextView;
  *      3a.  Create the ripple drawable for the normal (unselected
  *      color (again, two versions for compatibility).
  *<br><br>
- *      3b.  Create teh ripple drawable for the highlighted
+ *      3b.  Create the ripple drawable for the highlighted
  *      color and its old-school twin.
  *<br><br>
  *      3c.  Create a drawable that defines how the backgrounds
